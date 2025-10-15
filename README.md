@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjffcnx" alt="cjffcnx" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/yuvibestofbest" target="blank"><img src="https://img.shields.io/twitter/follow/yuvibestofbest?logo=twitter&style=for-the-badge" alt="yuvibestofbest" /></a> </p>
 
